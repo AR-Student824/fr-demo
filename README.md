@@ -1,2 +1,2 @@
-# formrocket-demo.github.io
-Demo
+# A simple demo for FormRocket
+Noice!
